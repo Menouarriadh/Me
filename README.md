@@ -14,38 +14,38 @@
 
 ---
 
-## 👤 About
+##  About
 
 This is my personal developer portfolio.
 
 I'm a multidisciplinary student from **Annaba, Algeria 🇩🇿**, currently pursuing:
-- 🏥 **Medicine** — 2nd Year, Faculty of Medicine, Annaba
-- 📊 **Big Data** — 2nd Year, Computer Science, Annaba
-- 🌐 **Self-taught Web Developer** — building real projects since 2026
+-  **Medicine** — 2nd Year, Faculty of Medicine, Annaba
+-  **Big Data** — 2nd Year, Computer Science, Annaba
+-  **Self-taught Web Developer** — building real projects since 2026
 
 ---
 
-## ✨ Features
+##  Features
 
-- ⚡ Pure HTML.
-- 🌑 Dark theme with indigo/purple glow aesthetic
-- 🎞️ Scroll-reveal animations using `IntersectionObserver`
-- 📊 Animated skill bars
-- 🧭 Active nav link highlighting on scroll
-- 📱 Fully responsive (mobile + desktop)
+-  HTML5/CSS3/JS.
+- Dark theme with indigo/purple glow aesthetic
+- Scroll-reveal animations using
+- Animated skill bars
+- Active nav link highlighting on scroll
+- Fully responsive (mobile + desktop)
 ---
 
-## 🚀 Projects Showcased
+## Projects Showcased
 
 | Project | Description | Link |
 |--------|-------------|------|
-| 🧠 **ASCA** | Website for ASCA cerebral health association in Annaba | [Visit](https://menouarriadh.github.io/ASCA-Web/) |
-| 📱 **Djawaher Phone** | Product landing page for Tecno Spark 40 | [Visit](https://menouarriadh.github.io/Djawaherphone-TS40/) |
-| 🌐 **This Portfolio** | My personal dark-themed developer portfolio | — |
-| 🍽️ **AL maidah** | A fully responsive, single-file restaurant website showcasing the authentic flavors of Algerian, Tunisian, and Syrian cuisine | .[Visit](https://menouarriadh.github.io/AL-maidah). |
+|  **ASCA** | Website for ASCA cerebral health association in Annaba | [Visit](https://menouarriadh.github.io/ASCA-Web/) |
+|  **Djawaher Phone** | Product landing page for Tecno Spark 40 | [Visit](https://menouarriadh.github.io/Djawaherphone-TS40/) |
+|  **This Portfolio** | My personal dark-themed developer portfolio | — |
+|  **AL maidah** | A fully responsive, single-file restaurant website showcasing the authentic flavors of Algerian, Tunisian, and Syrian cuisine | .[Visit](https://menouarriadh.github.io/AL-maidah). |
 ---
 
-## 🛠️ Built With
+## Built With
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -54,14 +54,14 @@ I'm a multidisciplinary student from **Annaba, Algeria 🇩🇿**, currently pur
 
 ---
 
-## 📬 Contact
+## Contact
 
 | Platform | Link |
 |----------|------|
-| ✉️ Email | [Riadhmenouar@gmail.com](mailto:Riadhmenouar@gmail.com) |
-| 🐙 GitHub | [github.com/Menouarriadh](https://github.com/Menouarriadh) |
-| 💼 LinkedIn | [linkedin.com/in/riadh-menouar](https://www.linkedin.com/in/riadh-menouar-003a9735a/) |
-| 📸 Instagram | [@bigmr.dev](https://www.instagram.com/bigmr.dev/) |
+| Email | [Riadhmenouar@gmail.com](mailto:Riadhmenouar@gmail.com) |
+| GitHub | [github.com/Menouarriadh](https://github.com/Menouarriadh) |
+| LinkedIn | [linkedin.com/in/riadh-menouar](https://www.linkedin.com/in/riadh-menouar-003a9735a/) |
+| Instagram | [@bigmr.dev](https://www.instagram.com/bigmr.dev/) |
 
 ---
 
