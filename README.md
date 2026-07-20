@@ -4,7 +4,7 @@
 
 # Riadh Menouar — Personal Portfolio
 
-**Medicine · Big Data · Web Development**
+**Medicine · Big Data · Frontend Web Development**
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Visit-6366f1?style=for-the-badge&logo=github)](https://menouarriadh.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Menouarriadh-818cf8?style=for-the-badge&logo=github)](https://github.com/Menouarriadh)
@@ -19,9 +19,9 @@
 This is my personal developer portfolio.
 
 I'm a multidisciplinary student from **Annaba, Algeria 🇩🇿**, currently pursuing:
--  **Medicine** — 2nd Year, Faculty of Medicine, Annaba
--  **Big Data** — 2nd Year, Computer Science, Annaba
--  **Self-taught Web Developer** — building real projects since 2026
+-  **Medicine** — 3nd Year, Faculty of Medicine, Annaba
+-  **Big Data** — 3nd Year, Computer Science, Annaba
+-  **Self-taught Frontend Web Developer** — building real projects since 2025
 
 ---
 
